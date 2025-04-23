@@ -1,10 +1,10 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-caffeine.svg)
+
 
 # 👋 Hi, I'm Maeve!
 
-🎮 Gamer girl meets code – game developer & machine learning enthusiast  
+🎮 Gamer meets code – game developer & machine learning enthusiast  
 🛠️ Tinkering with `Unity`, `Python`, `C#`, and single-board chaos (Raspberry Pi)  
 📹 Streamer, video editor & part-time debugger  
 
@@ -34,8 +34,7 @@
 
 ## 🤷 About me
 
-> - CTRL + Z is my religion  
-> - Yes, I use Arch btw  
+> - CTRL + Z is my religion   
 > - I commit emotionally
 
 ---
