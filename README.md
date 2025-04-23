@@ -1,16 +1,53 @@
-## Hi there 👋
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-caffeine.svg)
 
-<!--
-**MaeMaeMH/MaeMaeMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Maeve!
 
-Here are some ideas to get you started:
+🎮 Gamer girl meets code – game developer & machine learning enthusiast  
+🛠️ Tinkering with `Unity`, `Python`, `C#`, and single-board chaos (Raspberry Pi)  
+📹 Streamer, video editor & part-time debugger  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Languages & Tools
+
+`C#` `Python` `Unity` `Docker` `Raspberry Pi`  
+*Trying to make it work™ since forever*
+
+---
+
+## 🌌 Currently working on
+
+- 🧠 A Discord bot that sometimes listens
+- 🏭 A Unity VR SmartFactory (Uni project that might accidentally teach robots capitalism)
+
+---
+
+## 🌱 Currently learning
+
+- How to make machines think (ML)
+- How to make Unity not crash
+- How to design UI without crying
+
+---
+
+## 🤷 About me
+
+> - CTRL + Z is my religion  
+> - Yes, I use Arch btw  
+> - I commit emotionally
+
+---
+
+## 📫 Contact
+
+> Just scream `Maeve!` into the terminal  
+> Or don’t. I respect that.
+
+---
+
+## 📉 GitLab Stats
+
+*Currently unavailable, but trust me – I code.*
+
