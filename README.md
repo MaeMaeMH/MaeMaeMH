@@ -34,15 +34,15 @@
 
 ## 🤷 About me
 
-> - CTRL + Z is my religion   
-> - I commit emotionally
+- CTRL + Z is my religion   
+- I commit emotionally
 
 ---
 
 ## 📫 Contact
 
-> Just scream `Maeve!` into the terminal  
-> Or don’t. I respect that.
+- Just scream `Maeve!` into the terminal  
+- Or don’t. I respect that.
 
 ---
 
