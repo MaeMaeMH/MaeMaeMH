@@ -1,7 +1,3 @@
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
-
-
 # 👋 Hi, I'm Maeve!
 
 🎮 Gamer meets code – game developer & machine learning enthusiast  
