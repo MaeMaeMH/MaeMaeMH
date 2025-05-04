@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maeve!
+# 👋 Hi, I'm MaeMae!
 
 🎮 Gamer meets code – game developer & machine learning enthusiast  
 🛠️ Tinkering with `Unity`, `Python`, `C#`, and single-board chaos (Raspberry Pi)  
