@@ -13,29 +13,35 @@
 
 ---
 
-## 🌌 Currently working on
+##  Currently working on
 
-- 🧠 A Discord bot that sometimes listens
-- 🏭 A Unity VR SmartFactory (Uni project that might accidentally teach robots capitalism)
+- 🧠 A Discord bot that sometimes listens  
 
----
-
-## 🌱 Currently learning
-
-- How to make machines think (ML)
-- How to make Unity not crash
-- How to design UI without crying
+- #### 🌾 Untitled Farm Project  
+  🌱 A turn-based roguelike about crops, cards, and creeping dread.  
+  📦 Still planting the roots. Harvest season unknown.
 
 ---
 
-## 🤷 About me
+## Dev-Core Mood
 
-- CTRL + Z is my religion   
-- I commit emotionally
+🕯️ Late nights, low lights  
+🎧 Lo-fi beats, dark synths, rain ambience   
+🧸 Surrounded by plushies with ancient lore  
+🍵 Tea gone cold. Still drinking it.
 
 ---
 
-## 📫 Contact
+## About me
+
+- CTRL + Z is my religion  
+- I commit emotionally  
+- Bit of a night creature  
+- Keeps plushies on the desk. Some of them judge me.
+
+---
+
+## Contact
 
 - Just scream `Maeve!` into the terminal  
 - Or don’t. I respect that.
@@ -44,5 +50,5 @@
 
 ## 📉 GitLab Stats
 
-*Currently unavailable, but trust me – I code.*
+*Currently unavailable, but trust me! I code.*
 
