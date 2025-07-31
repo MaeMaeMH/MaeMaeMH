@@ -18,7 +18,6 @@
 - 🧠 A Discord bot that sometimes listens  
 
 - #### 🌾 Untitled Farm Project  
-  🌱 A turn-based roguelike about crops, cards, and creeping dread.  
   📦 Still planting the roots. Harvest season unknown.
 
 ---
